@@ -103,7 +103,7 @@
 - [파일 시스템]
 - [가상 머신과 컨테이너]
 
-## 📌 Computer Structure
+## 📌 Computer Architecture
 - [컴퓨터 구조의 큰 그림]
 - [컴퓨터가 이해하는 정보]
 - [CPU]
